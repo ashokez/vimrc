@@ -152,7 +152,9 @@ end
 
 " Use more readable color scheme by default.
 " It works well with `:set colorline` option.
-colorscheme wombat256mod
+"colorscheme wombat256mod
+colorscheme solarized
+set background=dark
 
 " Highlight line under cursor. It helps with navigation.
 set cursorline
